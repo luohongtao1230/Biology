@@ -1,0 +1,26 @@
+{
+  "name": "生物会考冲刺",
+  "short_name": "生物刷题",
+  "description": "生物会考易错题专项训练",
+  "start_url": "./biology-quiz.html",
+  "display": "standalone",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "image/biology.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "image/biology.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["education"],
+  "lang": "zh-CN"
+}
